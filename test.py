@@ -1,1 +1,0 @@
-print("python好困難")
